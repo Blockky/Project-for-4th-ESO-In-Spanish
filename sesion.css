@@ -1,0 +1,24 @@
+body{
+    color: white;
+}
+
+.titulo{
+    margin-top: 170px;
+    margin-left: 10%;
+}
+
+#sesion .form .caja input {
+    margin-left: 10%;
+    width: 200px;
+    border: 10;
+    font-size: 18px;
+    color: white;
+    background: #262C38;
+    padding: 5px 10px;
+
+}
+
+#sesion .boton{
+    margin-left: 10%;
+    margin-bottom: 160px;
+}
